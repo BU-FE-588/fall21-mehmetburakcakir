@@ -18,5 +18,5 @@ There will be several homework assignments done for this course.
 
 
 ### Homework Assignment 5
-* [FE588_Fall21_Homework_3-4 HTML](https://github.com/BU-FE-588/fall21-mehmetburakcakir/blob/main/hw/Homework%205.html): HW 5
-* [FE588_Fall21_Homework_3-4 Jupyter](https://github.com/BU-FE-588/fall21-mehmetburakcakir/blob/main/hw/Homework%205.ipynb): HW 5
+* [FE588_Fall21_Homework_5 HTML](https://github.com/BU-FE-588/fall21-mehmetburakcakir/blob/main/hw/Homework%205.html): HW 5
+* [FE588_Fall21_Homework_5 Jupyter](https://github.com/BU-FE-588/fall21-mehmetburakcakir/blob/main/hw/Homework%205.ipynb): HW 5
